@@ -33,7 +33,7 @@ required_strings=(
   "3 days left"
   "Creation of"
   "https://www.crio.do"
-  "https://github.com/ketanmakode"
+  "https://www.github.com/ketanmakode"
   "card__images-layer"
   "card__title"
 )
